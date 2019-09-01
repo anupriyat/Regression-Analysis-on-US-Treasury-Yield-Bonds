@@ -7,6 +7,8 @@ Data contains daily records of the US Treasury yields to maturity
  
  Step 2. Logistic regression
  
+ ![Alt text](LogisticRegression.png?raw=true "LogisticRegression.png")
+ 
  Step 3. Comparing regression models
  
           1 Complete model
